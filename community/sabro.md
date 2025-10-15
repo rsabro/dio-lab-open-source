@@ -9,7 +9,7 @@ Atualmente, busco contribuir para projetos open source e colaborar em soluções
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/rsabro/)
 
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)(https://rsabro.github.io/sabro/)
+[![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)](https://rsabro.github.io/sabro/)
 
 
 ## 📌SOFT SKILLS
